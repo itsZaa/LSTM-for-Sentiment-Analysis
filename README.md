@@ -5,9 +5,13 @@
 
 ## Project Features
   -**Dataset** : [IMDB Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/code)
+  
   -**Model Framework** : Built using KERAS library.
+  
   -**Model Architecture** : Long Short-Term Memory(LSTM) for sequence processing and sentiment classification
+  
   -**Optimizers** = RMSprop and Adam for training the model
+  
   -**Evaluation Metrics** = Accuracy
 
 ## Results
